@@ -5,9 +5,9 @@ This application stochastically creates EnergyPlus residential models which real
 
 If you are interested in:
 
--Using the program as-is: you only need to download ModelGenerator.zip
+  -Using the program as-is: you only need to download ModelGenerator.zip
      
--Modifying the input data and/or the source code: you will need to download DeveloperTools.zip and SourceCode.zip
+  -Modifying the input data and/or the source code: you will need to download DeveloperTools.zip and SourceCode.zip
 
 
 
