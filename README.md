@@ -1,5 +1,5 @@
 # Diverse-Model-Generation
-Stochastically creates EnergyPlus residential household models which are representative of income level and US climate zone. 
+This application stochastically creates EnergyPlus residential models which realistically exhibit characteristics of households within particular income levels and US climate zones. 
 
 
 
