@@ -15,5 +15,5 @@ In order to run the application, you will need to have a Java Runtime Environmen
 
 
 
-Tutorials covering how to install, setup, use, and modify the program are available here:
+Tutorials covering how to set up, use, and modify the program are available here:
 https://www.youtube.com/playlist?list=PLBQPwVqGEYQ0lCMd-dZ4NstFhVdArWrsK
